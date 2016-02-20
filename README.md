@@ -3,6 +3,7 @@ Programma per connettersi a `sslvpn.univr.it` utilizzando le credenziali GIA.
 ## Requisiti
 - Ubuntu 12.04 o successive
 - Credenziali GIA valide
+
 ## Installazione
     $ git clone https://github.com/giovanni-liboni/vpnunivr.git
     $ sudo apt-get install lib32z1
