@@ -25,4 +25,6 @@ Lanciare lo script con
 
     $ ./connetti.sh
 
-Una volta lanciato verrà richiesta la password. Una volta immessa apparirà la scritta `Connecting to sslvpn.univr.it : 443` e la connessione con la VPN sarà attiva.
+- Controllare l'indirizzo ip per l'avvenuta connessione con la VPN ( Il nuovo indirizzo inizia con 157.27 ).
+- La scritta `Connecting to sslvpn.univr.it : 443` sara' visibile per tutta la durata della connessione.
+- Per interrompere la connessione terminare lo script.
