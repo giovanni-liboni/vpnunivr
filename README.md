@@ -1,7 +1,7 @@
 # Univr VPN Connect
 Programma per connettersi a `sslvpn.univr.it` utilizzando le credenziali GIA.
 ## Requisiti
-- Ubuntu 12.04 o successive
+- Ubuntu 12.04 o successive a 64bit ( amd64 )
 - Credenziali GIA valide
 
 ## Installazione
